@@ -28,6 +28,8 @@ This is a simple calculator application built using JavaFX. It performs basic ar
 
 4. The calculator application window should appear, allowing you to perform arithmetic calculations using the provided buttons.
 
+### UI
+![alt text](image.png)
 ## Usage
 
 - **Input**: Enter numbers and arithmetic operations using the buttons provided.

@@ -14,6 +14,7 @@ public class MainWindow extends Application {
         Scene scene = new Scene(fxmlLoader.load(), 364, 366);
         stage.setTitle("Calculator!");
         stage.setScene(scene);
+        stage.setResizable(false);
         stage.show();
     }
 
