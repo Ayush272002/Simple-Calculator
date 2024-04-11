@@ -1,6 +1,4 @@
 # JavaFX Calculator
----
-
 This is a simple calculator application built using JavaFX. It performs basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
 ## Features
@@ -39,10 +37,9 @@ This is a simple calculator application built using JavaFX. It performs basic ar
 
 ## Contributors
 
-- [Your Name](https://github.com/Ayush272002)
+- [Ayush Acharjya](https://github.com/Ayush272002)
 
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
 
----
